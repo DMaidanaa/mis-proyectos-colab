@@ -1,0 +1,7 @@
+Marcos, Gomez, marcos@example.com
+Fabian, Gomez, fabi@example.com
+Santiago, Quintana, santi@example.com
+Daniel, Maciel, daniel@example.com
+Marcos, Galperin, marquitos@example.com
+Alejandro, Barrios, alebarrios@example.com
+Martin, Demichellis, martin@example.com
